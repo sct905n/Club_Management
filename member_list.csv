@@ -1,0 +1,27 @@
+Number,First Name,Last Name,Phone,Address,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Times Attended ,Times Paid,Times haven't paid,Monthly paid times,Discount (yes/no),Amount Paid (gets added to revenue),Month did not pay
+1,Lucas,Thompson,(613)704-1265,123 Maple Street,4,0,3,4,4,4,4,4,4,3,4,4,42,11,1,>=3,Yes (May-Dec; $35 each month),385,Jan
+2,Emily,Rod,(418)500-2025,5 Apple Road,2,1,3,4,4,4,4,2,4,4,4,4,40,10,2,>=3,Yes (July-Dec; $35 each month),350,"Jan, Mar"
+3,Benjamin,Patel,(905)334-4656,456 Elm Avenue,1,3,4,3,4,4,2,1,4,4,4,2,36,9,3,,No,315,"Feb, Mar, May"
+4,Sophia,Lewis,(418)425-4107,789 Oak Road,3,4,3,2,3,4,3,4,3,4,3,4,40,10,2,>=3,Yes(Oct-Dec; $35 each month),350,"Feb, Jun"
+5,Ethan,Garcia,(604)915-7226,321 Birch Lane,4,2,2,1,2,3,4,3,2,1,1,3,28,7,5,,No,245,"Feb, Apr, Jun, Sep, Nov"
+6,Olivia,Walker,(780)558-9511,99 Fulcrum Avenue,4,1,3,2,2,4,3,2,2,0,2,4,29,8,4,,No,280,"Mar, May, Jul, Sep"
+7,Liam,Murphy,(250)771-9160,654 Pine Boulevard,2,3,1,3,1,2,2,1,2,1,1,3,22,6,6,,No,210,"Jan, Mar, May, Jul, Sep, Nov"
+8,Isabella,Carter,(204)934-1737,987 Cedar Crescent,2,3,2,3,2,1,3,2,0,0,2,2,22,6,6,,No,210,"Feb, Apr, Jun, Aug, Oct, Dec"
+9,Mason,Turner,(438)818-6790,10 St. John's Road,1,2,3,4,2,2,3,4,3,2,3,4,33,9,3,,No,315,"Jan, May, Jun"
+10,Ava,Russell,(403)224-4720,246 Willow Court,3,1,3,0,1,2,4,3,2,1,3,0,23,6,6,,No,210,"Jan, Mar, May, Jul, Sep, Nov"
+11,Tom,Nguyen,(407)123-1234,52 Victoria Ave,2,2,2,2,4,3,2,2,1,2,2,2,26,7,5,,No,245,"Jan, Mar, May, Jul, Sep"
+12,Antony,Shim,(777)902-6352,1 Dundas St,4,1,3,2,4,0,1,3,2,1,3,2,26,7,5,,No,245,"Jan, May, Jul, Sep, Nov"
+13,Avery,Lee,(967)515-8080,2 Dundas St,1,2,3,1,1,2,3,1,1,2,3,1,21,6,6,,No,210,"Feb, Apr, Jun, Aug, Oct, Dec"
+14,Isla,Lu,(967)515-8081,3 Dundas St,1,2,4,4,1,1,3,1,1,2,4,4,28,7,5,,No,245,"Feb, Apr, Jun, Aug, Oct, Dec"
+15,Mia,Paw,(967)515-8082,4 Dundas St,3,1,2,3,4,2,4,4,1,3,0,2,29,8,4,,No,280,"Apr, Jul, Sep, Dec"
+16,Emma,Law,(967)515-8083,5 Dundas St,2,4,3,3,2,1,1,0,2,2,2,2,24,6,6,,No,210,"Jan, Feb, Aug, Dec"
+17,Cindy,Om,(967)515-8084,6 Dundas St,2,1,1,1,1,2,3,1,1,1,3,0,17,5,7,,No,175,"Mar, May, Jun, Nov"
+18,Matt,Yi,(967)515-8085,7 Dundas St,2,3,2,1,1,1,3,1,2,2,2,2,22,6,6,,No,210,"Apr, May, Dec"
+19,Harper,Gate,(967)515-8086,8 Dundas St,1,2,3,1,4,2,4,4,4,1,3,2,31,8,4,,No,280,"Nov, Dec"
+20,Jackson,Jury,(967)515-8087,9 Dundas St,1,1,3,1,2,1,1,0,0,1,3,0,14,4,8,,No,140,"Jan, Mar, Apr, Jun, Jul"
+21,Lily,Murphy,(967)515-8088,10 Dundas St,4,2,4,4,2,2,2,2,2,2,2,2,30,8,4,,No,280,"Jul, Sep, Oct"
+22,Owen,Power,(967)515-8089,11 Dundas St,2,1,1,1,2,4,1,3,0,0,3,2,20,5,7,,No,175,"Feb, Mar, May, Sep, Nov"
+23,Grace,Hopper,(967)515-8090,12 Dundas St,3,3,4,0,0,1,2,3,1,2,3,1,23,6,6,,No,210,"Apr, May, Jun"
+24,Noah,Mat,(967)515-8091,13 Dundas St,4,3,4,1,0,1,2,4,4,2,4,4,33,9,3,,No,315,"Apr, May, Jun, Sep, Oct, Dec"
+Expected Rev:,,,,,580,480,660,510,530,530,640,550,480,430,640,560,,,,,,,
+Num of member did not pay:,,,,,9,8,9,9,12,10,6,4,10,5,7,8,,,,,,,
